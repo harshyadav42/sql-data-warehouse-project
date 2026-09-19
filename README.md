@@ -26,3 +26,8 @@ This project involves:
 * Data Modeling
 * Data Analytics
 
+---
+## Data Architecture
+
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+![Data_Architecture](docs/data_architecture.png)
