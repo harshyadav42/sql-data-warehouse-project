@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ---
 
 ## 📖 Project Overview
-
+ 
 This project involves:
 
 1. **Data Architecture:** Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
